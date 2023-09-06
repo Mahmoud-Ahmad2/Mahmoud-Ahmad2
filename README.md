@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-ahmad2&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-ahmad2" /> </p>
 <h3 align = "left">About me</h3>
-- 🔭 I’m currently Back-end Developer with a bachelor’s degree in computer engineering experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages
+- 🔭 Back-end Developer with a bachelor’s degree in computer engineering experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages
 Skilled in Typescript, Javascript, Node JS, Express JS, Nest JS, Databases MySql, Postgresql, MongoDB, and ability to learn and implement new technologies quickly.
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Mahmoud-Ahmad2?tab=repositories)
