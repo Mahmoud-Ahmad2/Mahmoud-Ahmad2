@@ -1,6 +1,6 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/company-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmoud Alhato</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate back-end developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-ahmad2&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-ahmad2" /> </p>
 <h3 align = "left">About me</h3>
 - 🔭 Back-end Developer with a bachelor’s degree in computer engineering experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages
