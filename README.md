@@ -1,10 +1,11 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/company-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmoud Alhato</h1>
-<h3 align="center">A passionate back-end developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-ahmad2&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-ahmad2" /> </p>
 <h3 align = "left">About me</h3>
-- 🔭 Back-end Developer with a bachelor’s degree in computer engineering experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages
-Skilled in Typescript, Javascript, Node JS, Express JS, Nest JS, Databases MySql, Postgresql, MongoDB, and ability to learn and implement new technologies quickly.
+- 🔭 I am a skilled Full-stack Software Engineer with extensive experience in designing, building, and maintaining scalable and secure web applications. My technical expertise includes React, Node.js, Express.js, Nest.js, and various database systems. I hold a B.Sc. in Computer Engineering, where I developed a strong foundation in programming, data structures, algorithms, and software engineering principles.
+
+My passion for technology drives me to continually learn and adopt new tools and frameworks. I thrive on tackling new challenges and solving complex problems, always aiming to deliver high-quality solutions. I am committed to leveraging my skills to contribute to innovative projects and drive technological advancements.
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Mahmoud-Ahmad2?tab=repositories)
 
